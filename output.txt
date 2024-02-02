@@ -1,0 +1,357 @@
+1 numarali musteri masaya oturmustur.
+0 numarali musteri masaya oturmustur.
+5 numarali musteri masaya oturmustur.
+6 numarali musteri masaya oturmustur.
+7 numarali musteri masaya oturmustur.
+8 numarali musteri masaya oturmustur.
+4 numarali musteri masaya oturmustur.
+3 numarali musteri masaya oturmustur.
+2 numarali musteri masaya oturmustur.
+9 numarali musteri masaya oturmustur.
+1 numarali musterinin siparisi alinmistir.(1numarali garson)
+1 numarali musterinin yemegi pisirilmistir.(4numarali sef)
+1 numarali musterinin hesabi alinmistir.(1numarali kasa)
+0 numarali musterinin siparisi alinmistir.(2numarali garson)
+0 numarali musterinin yemegi pisirilmistir.(0numarali sef)
+0 numarali musterinin hesabi alinmistir.(0numarali kasa)
+5 numarali musterinin siparisi alinmistir.(3numarali garson)
+5 numarali musterinin yemegi pisirilmistir.(1numarali sef)
+5 numarali musterinin hesabi alinmistir.(2numarali kasa)
+6 numarali musterinin siparisi alinmistir.(0numarali garson)
+7 numarali musterinin siparisi alinmistir.(6numarali garson)
+8 numarali musterinin siparisi alinmistir.(4numarali garson)
+4 numarali musterinin siparisi alinmistir.(7numarali garson)
+3 numarali musterinin siparisi alinmistir.(5numarali garson)
+6 numarali musterinin yemegi pisirilmistir.(3numarali sef)
+6 numarali musterinin hesabi alinmistir.(3numarali kasa)
+4 numarali musterinin yemegi pisirilmistir.(5numarali sef)
+3 numarali musterinin yemegi pisirilmistir.(2numarali sef)
+8 numarali musterinin yemegi pisirilmistir.(3numarali sef)
+7 numarali musterinin yemegi pisirilmistir.(2numarali sef)
+3 numarali musterinin hesabi alinmistir.(1numarali kasa)
+4 numarali musterinin hesabi alinmistir.(0numarali kasa)
+8 numarali musterinin hesabi alinmistir.(2numarali kasa)
+7 numarali musterinin hesabi alinmistir.(3numarali kasa)
+2 numarali musterinin siparisi alinmistir.(1numarali garson)
+9 numarali musterinin siparisi alinmistir.(2numarali garson)
+2 numarali musterinin yemegi pisirilmistir.(4numarali sef)
+9 numarali musterinin yemegi pisirilmistir.(4numarali sef)
+2 numarali musterinin hesabi alinmistir.(1numarali kasa)
+9 numarali musterinin hesabi alinmistir.(2numarali kasa)
+10 numarali musteri masaya oturmustur.
+11 numarali musteri masaya oturmustur.
+17 numarali musteri masaya oturmustur.
+19 numarali musteri masaya oturmustur.
+12 numarali musteri masaya oturmustur.
+10 numarali musterinin siparisi alinmistir.(6numarali garson)
+11 numarali musterinin siparisi alinmistir.(0numarali garson)
+15 numarali musteri masaya oturmustur.
+10 numarali musterinin yemegi pisirilmistir.(2numarali sef)
+17 numarali musterinin siparisi alinmistir.(5numarali garson)
+19 numarali musterinin siparisi alinmistir.(4numarali garson)
+12 numarali musterinin siparisi alinmistir.(7numarali garson)
+11 numarali musterinin yemegi pisirilmistir.(1numarali sef)
+15 numarali musterinin siparisi alinmistir.(3numarali garson)
+16 numarali musteri masaya oturmustur.
+10 numarali musterinin hesabi alinmistir.(0numarali kasa)
+15 numarali musterinin yemegi pisirilmistir.(5numarali sef)
+15 numarali musterinin hesabi alinmistir.(3numarali kasa)
+14 numarali musteri masaya oturmustur.
+12 numarali musterinin yemegi pisirilmistir.(1numarali sef)
+13 numarali musteri masaya oturmustur.
+19 numarali musterinin yemegi pisirilmistir.(5numarali sef)
+18 numarali musteri masaya oturmustur.
+17 numarali musterinin yemegi pisirilmistir.(0numarali sef)
+16 numarali musterinin siparisi alinmistir.(1numarali garson)
+16 numarali musterinin yemegi pisirilmistir.(3numarali sef)
+11 numarali musterinin hesabi alinmistir.(2numarali kasa)
+12 numarali musterinin hesabi alinmistir.(1numarali kasa)
+14 numarali musterinin siparisi alinmistir.(2numarali garson)
+19 numarali musterinin hesabi alinmistir.(0numarali kasa)
+17 numarali musterinin hesabi alinmistir.(3numarali kasa)
+16 numarali musterinin hesabi alinmistir.(1numarali kasa)
+13 numarali musterinin siparisi alinmistir.(6numarali garson)
+18 numarali musterinin siparisi alinmistir.(5numarali garson)
+14 numarali musterinin yemegi pisirilmistir.(4numarali sef)
+14 numarali musterinin hesabi alinmistir.(0numarali kasa)
+13 numarali musterinin yemegi pisirilmistir.(4numarali sef)
+13 numarali musterinin hesabi alinmistir.(2numarali kasa)
+18 numarali musterinin yemegi pisirilmistir.(2numarali sef)
+18 numarali musterinin hesabi alinmistir.(1numarali kasa)
+27 numarali musteri masaya oturmustur.
+27 numarali musterinin siparisi alinmistir.(4numarali garson)
+26 numarali musteri masaya oturmustur.
+27 numarali musterinin yemegi pisirilmistir.(1numarali sef)
+27 numarali musterinin hesabi alinmistir.(3numarali kasa)
+25 numarali musteri masaya oturmustur.
+26 numarali musterinin siparisi alinmistir.(5numarali garson)
+25 numarali musterinin siparisi alinmistir.(2numarali garson)
+20 numarali musteri masaya oturmustur.
+26 numarali musterinin yemegi pisirilmistir.(5numarali sef)
+25 numarali musterinin yemegi pisirilmistir.(3numarali sef)
+26 numarali musterinin hesabi alinmistir.(0numarali kasa)
+23 numarali musteri masaya oturmustur.
+25 numarali musterinin hesabi alinmistir.(1numarali kasa)
+24 numarali musteri masaya oturmustur.
+20 numarali musterinin siparisi alinmistir.(0numarali garson)
+23 numarali musterinin siparisi alinmistir.(7numarali garson)
+28 numarali musteri masaya oturmustur.
+20 numarali musterinin yemegi pisirilmistir.(0numarali sef)
+20 numarali musterinin hesabi alinmistir.(2numarali kasa)
+23 numarali musterinin yemegi pisirilmistir.(4numarali sef)
+24 numarali musterinin siparisi alinmistir.(6numarali garson)
+28 numarali musterinin siparisi alinmistir.(1numarali garson)
+29 numarali musteri masaya oturmustur.
+22 numarali musteri masaya oturmustur.
+24 numarali musterinin yemegi pisirilmistir.(4numarali sef)
+21 numarali musteri masaya oturmustur.
+29 numarali musterinin siparisi alinmistir.(3numarali garson)
+28 numarali musterinin yemegi pisirilmistir.(2numarali sef)
+29 numarali musterinin yemegi pisirilmistir.(2numarali sef)
+23 numarali musterinin hesabi alinmistir.(3numarali kasa)
+24 numarali musterinin hesabi alinmistir.(1numarali kasa)
+28 numarali musterinin hesabi alinmistir.(2numarali kasa)
+29 numarali musterinin hesabi alinmistir.(0numarali kasa)
+22 numarali musterinin siparisi alinmistir.(4numarali garson)
+21 numarali musterinin siparisi alinmistir.(5numarali garson)
+22 numarali musterinin yemegi pisirilmistir.(1numarali sef)
+22 numarali musterinin hesabi alinmistir.(1numarali kasa)
+21 numarali musterinin yemegi pisirilmistir.(1numarali sef)
+21 numarali musterinin hesabi alinmistir.(2numarali kasa)
+36 numarali musteri masaya oturmustur.
+36 numarali musterinin siparisi alinmistir.(3numarali garson)
+36 numarali musterinin yemegi pisirilmistir.(3numarali sef)
+36 numarali musterinin hesabi alinmistir.(1numarali kasa)
+35 numarali musteri masaya oturmustur.
+34 numarali musteri masaya oturmustur.
+30 numarali musteri masaya oturmustur.
+37 numarali musteri masaya oturmustur.
+33 numarali musteri masaya oturmustur.
+38 numarali musteri masaya oturmustur.
+32 numarali musteri masaya oturmustur.
+39 numarali musteri masaya oturmustur.
+31 numarali musteri masaya oturmustur.
+35 numarali musterinin siparisi alinmistir.(4numarali garson)
+34 numarali musterinin siparisi alinmistir.(5numarali garson)
+30 numarali musterinin siparisi alinmistir.(7numarali garson)
+37 numarali musterinin siparisi alinmistir.(6numarali garson)
+33 numarali musterinin siparisi alinmistir.(0numarali garson)
+38 numarali musterinin siparisi alinmistir.(1numarali garson)
+32 numarali musterinin siparisi alinmistir.(2numarali garson)
+35 numarali musterinin yemegi pisirilmistir.(4numarali sef)
+32 numarali musterinin yemegi pisirilmistir.(2numarali sef)
+38 numarali musterinin yemegi pisirilmistir.(1numarali sef)
+33 numarali musterinin yemegi pisirilmistir.(5numarali sef)
+37 numarali musterinin yemegi pisirilmistir.(0numarali sef)
+30 numarali musterinin yemegi pisirilmistir.(4numarali sef)
+30 numarali musterinin hesabi alinmistir.(3numarali kasa)
+37 numarali musterinin hesabi alinmistir.(0numarali kasa)
+34 numarali musterinin yemegi pisirilmistir.(0numarali sef)
+33 numarali musterinin hesabi alinmistir.(1numarali kasa)
+39 numarali musterinin siparisi alinmistir.(3numarali garson)
+38 numarali musterinin hesabi alinmistir.(1numarali kasa)
+32 numarali musterinin hesabi alinmistir.(0numarali kasa)
+34 numarali musterinin hesabi alinmistir.(2numarali kasa)
+31 numarali musterinin siparisi alinmistir.(4numarali garson)
+39 numarali musterinin yemegi pisirilmistir.(3numarali sef)
+39 numarali musterinin hesabi alinmistir.(3numarali kasa)
+31 numarali musterinin yemegi pisirilmistir.(3numarali sef)
+31 numarali musterinin hesabi alinmistir.(1numarali kasa)
+41 numarali musteri masaya oturmustur.
+46 numarali musteri masaya oturmustur.
+41 numarali musterinin siparisi alinmistir.(0numarali garson)
+46 numarali musterinin siparisi alinmistir.(2numarali garson)
+44 numarali musteri masaya oturmustur.
+41 numarali musterinin yemegi pisirilmistir.(1numarali sef)
+46 numarali musterinin yemegi pisirilmistir.(0numarali sef)
+41 numarali musterinin hesabi alinmistir.(0numarali kasa)
+46 numarali musterinin hesabi alinmistir.(2numarali kasa)
+44 numarali musterinin siparisi alinmistir.(1numarali garson)
+47 numarali musteri masaya oturmustur.
+44 numarali musterinin yemegi pisirilmistir.(0numarali sef)
+44 numarali musterinin hesabi alinmistir.(1numarali kasa)
+48 numarali musteri masaya oturmustur.
+40 numarali musteri masaya oturmustur.
+49 numarali musteri masaya oturmustur.
+42 numarali musteri masaya oturmustur.
+45 numarali musteri masaya oturmustur.
+43 numarali musteri masaya oturmustur.
+47 numarali musterinin siparisi alinmistir.(4numarali garson)
+47 numarali musterinin yemegi pisirilmistir.(2numarali sef)
+47 numarali musterinin hesabi alinmistir.(3numarali kasa)
+48 numarali musterinin siparisi alinmistir.(5numarali garson)
+40 numarali musterinin siparisi alinmistir.(7numarali garson)
+49 numarali musterinin siparisi alinmistir.(3numarali garson)
+42 numarali musterinin siparisi alinmistir.(6numarali garson)
+48 numarali musterinin yemegi pisirilmistir.(5numarali sef)
+48 numarali musterinin hesabi alinmistir.(0numarali kasa)
+42 numarali musterinin yemegi pisirilmistir.(4numarali sef)
+49 numarali musterinin yemegi pisirilmistir.(5numarali sef)
+40 numarali musterinin yemegi pisirilmistir.(4numarali sef)
+49 numarali musterinin hesabi alinmistir.(2numarali kasa)
+42 numarali musterinin hesabi alinmistir.(1numarali kasa)
+40 numarali musterinin hesabi alinmistir.(3numarali kasa)
+45 numarali musterinin siparisi alinmistir.(0numarali garson)
+43 numarali musterinin siparisi alinmistir.(2numarali garson)
+45 numarali musterinin yemegi pisirilmistir.(3numarali sef)
+43 numarali musterinin yemegi pisirilmistir.(3numarali sef)
+45 numarali musterinin hesabi alinmistir.(0numarali kasa)
+43 numarali musterinin hesabi alinmistir.(2numarali kasa)
+56 numarali musteri masaya oturmustur.
+53 numarali musteri masaya oturmustur.
+58 numarali musteri masaya oturmustur.
+57 numarali musteri masaya oturmustur.
+56 numarali musterinin siparisi alinmistir.(0numarali garson)
+50 numarali musteri masaya oturmustur.
+56 numarali musterinin yemegi pisirilmistir.(5numarali sef)
+56 numarali musterinin hesabi alinmistir.(2numarali kasa)
+53 numarali musterinin siparisi alinmistir.(2numarali garson)
+58 numarali musterinin siparisi alinmistir.(1numarali garson)
+57 numarali musterinin siparisi alinmistir.(7numarali garson)
+50 numarali musterinin siparisi alinmistir.(4numarali garson)
+54 numarali musteri masaya oturmustur.
+53 numarali musterinin yemegi pisirilmistir.(4numarali sef)
+53 numarali musterinin hesabi alinmistir.(0numarali kasa)
+50 numarali musterinin yemegi pisirilmistir.(1numarali sef)
+57 numarali musterinin yemegi pisirilmistir.(2numarali sef)
+50 numarali musterinin hesabi alinmistir.(3numarali kasa)
+58 numarali musterinin yemegi pisirilmistir.(3numarali sef)
+51 numarali musteri masaya oturmustur.
+54 numarali musterinin siparisi alinmistir.(3numarali garson)
+58 numarali musterinin hesabi alinmistir.(1numarali kasa)
+59 numarali musteri masaya oturmustur.
+54 numarali musterinin yemegi pisirilmistir.(0numarali sef)
+52 numarali musteri masaya oturmustur.
+55 numarali musteri masaya oturmustur.
+51 numarali musterinin siparisi alinmistir.(5numarali garson)
+59 numarali musterinin siparisi alinmistir.(6numarali garson)
+57 numarali musterinin hesabi alinmistir.(3numarali kasa)
+54 numarali musterinin hesabi alinmistir.(1numarali kasa)
+52 numarali musterinin siparisi alinmistir.(2numarali garson)
+55 numarali musterinin siparisi alinmistir.(0numarali garson)
+51 numarali musterinin yemegi pisirilmistir.(5numarali sef)
+51 numarali musterinin hesabi alinmistir.(2numarali kasa)
+59 numarali musterinin yemegi pisirilmistir.(5numarali sef)
+59 numarali musterinin hesabi alinmistir.(1numarali kasa)
+52 numarali musterinin yemegi pisirilmistir.(4numarali sef)
+55 numarali musterinin yemegi pisirilmistir.(3numarali sef)
+52 numarali musterinin hesabi alinmistir.(0numarali kasa)
+55 numarali musterinin hesabi alinmistir.(3numarali kasa)
+62 numarali musteri masaya oturmustur.
+65 numarali musteri masaya oturmustur.
+60 numarali musteri masaya oturmustur.
+61 numarali musteri masaya oturmustur.
+63 numarali musteri masaya oturmustur.
+62 numarali musterinin siparisi alinmistir.(4numarali garson)
+65 numarali musterinin siparisi alinmistir.(7numarali garson)
+60 numarali musterinin siparisi alinmistir.(3numarali garson)
+68 numarali musteri masaya oturmustur.
+62 numarali musterinin yemegi pisirilmistir.(1numarali sef)
+62 numarali musterinin hesabi alinmistir.(3numarali kasa)
+65 numarali musterinin yemegi pisirilmistir.(0numarali sef)
+60 numarali musterinin yemegi pisirilmistir.(2numarali sef)
+65 numarali musterinin hesabi alinmistir.(2numarali kasa)
+60 numarali musterinin hesabi alinmistir.(1numarali kasa)
+61 numarali musterinin siparisi alinmistir.(1numarali garson)
+63 numarali musterinin siparisi alinmistir.(5numarali garson)
+68 numarali musterinin siparisi alinmistir.(6numarali garson)
+69 numarali musteri masaya oturmustur.
+61 numarali musterinin yemegi pisirilmistir.(2numarali sef)
+61 numarali musterinin hesabi alinmistir.(0numarali kasa)
+68 numarali musterinin yemegi pisirilmistir.(0numarali sef)
+67 numarali musteri masaya oturmustur.
+64 numarali musteri masaya oturmustur.
+66 numarali musteri masaya oturmustur.
+69 numarali musterinin siparisi alinmistir.(0numarali garson)
+67 numarali musterinin siparisi alinmistir.(2numarali garson)
+68 numarali musterinin hesabi alinmistir.(3numarali kasa)
+63 numarali musterinin yemegi pisirilmistir.(5numarali sef)
+69 numarali musterinin yemegi pisirilmistir.(4numarali sef)
+63 numarali musterinin hesabi alinmistir.(0numarali kasa)
+69 numarali musterinin hesabi alinmistir.(2numarali kasa)
+67 numarali musterinin hesabi alinmistir.(1numarali kasa)
+64 numarali musterinin siparisi alinmistir.(7numarali garson)
+66 numarali musterinin siparisi alinmistir.(5numarali garson)
+64 numarali musterinin yemegi pisirilmistir.(1numarali sef)
+64 numarali musterinin hesabi alinmistir.(3numarali kasa)
+66 numarali musterinin yemegi pisirilmistir.(1numarali sef)
+66 numarali musterinin hesabi alinmistir.(1numarali kasa)
+77 numarali musteri masaya oturmustur.
+77 numarali musterinin siparisi alinmistir.(3numarali garson)
+78 numarali musteri masaya oturmustur.
+77 numarali musterinin yemegi pisirilmistir.(0numarali sef)
+77 numarali musterinin hesabi alinmistir.(1numarali kasa)
+73 numarali musteri masaya oturmustur.
+70 numarali musteri masaya oturmustur.
+79 numarali musteri masaya oturmustur.
+71 numarali musteri masaya oturmustur.
+78 numarali musterinin siparisi alinmistir.(6numarali garson)
+73 numarali musterinin siparisi alinmistir.(0numarali garson)
+70 numarali musterinin siparisi alinmistir.(7numarali garson)
+79 numarali musterinin siparisi alinmistir.(5numarali garson)
+71 numarali musterinin siparisi alinmistir.(4numarali garson)
+75 numarali musteri masaya oturmustur.
+78 numarali musterinin yemegi pisirilmistir.(3numarali sef)
+78 numarali musterinin hesabi alinmistir.(0numarali kasa)
+70 numarali musterinin yemegi pisirilmistir.(4numarali sef)
+79 numarali musterinin yemegi pisirilmistir.(2numarali sef)
+70 numarali musterinin hesabi alinmistir.(2numarali kasa)
+71 numarali musterinin yemegi pisirilmistir.(1numarali sef)
+73 numarali musterinin yemegi pisirilmistir.(5numarali sef)
+73 numarali musterinin hesabi alinmistir.(3numarali kasa)
+76 numarali musteri masaya oturmustur.
+75 numarali musterinin siparisi alinmistir.(2numarali garson)
+75 numarali musterinin yemegi pisirilmistir.(2numarali sef)
+72 numarali musteri masaya oturmustur.
+74 numarali musteri masaya oturmustur.
+76 numarali musterinin siparisi alinmistir.(1numarali garson)
+71 numarali musterinin hesabi alinmistir.(0numarali kasa)
+79 numarali musterinin hesabi alinmistir.(3numarali kasa)
+75 numarali musterinin hesabi alinmistir.(1numarali kasa)
+72 numarali musterinin siparisi alinmistir.(3numarali garson)
+74 numarali musterinin siparisi alinmistir.(2numarali garson)
+76 numarali musterinin yemegi pisirilmistir.(0numarali sef)
+76 numarali musterinin hesabi alinmistir.(2numarali kasa)
+72 numarali musterinin yemegi pisirilmistir.(0numarali sef)
+72 numarali musterinin hesabi alinmistir.(3numarali kasa)
+74 numarali musterinin yemegi pisirilmistir.(3numarali sef)
+74 numarali musterinin hesabi alinmistir.(0numarali kasa)
+80 numarali musteri masaya oturmustur.
+80 numarali musterinin siparisi alinmistir.(0numarali garson)
+80 numarali musterinin yemegi pisirilmistir.(1numarali sef)
+80 numarali musterinin hesabi alinmistir.(1numarali kasa)
+84 numarali musteri masaya oturmustur.
+81 numarali musteri masaya oturmustur.
+82 numarali musteri masaya oturmustur.
+88 numarali musteri masaya oturmustur.
+86 numarali musteri masaya oturmustur.
+85 numarali musteri masaya oturmustur.
+89 numarali musteri masaya oturmustur.
+87 numarali musteri masaya oturmustur.
+83 numarali musteri masaya oturmustur.
+84 numarali musterinin siparisi alinmistir.(3numarali garson)
+84 numarali musterinin yemegi pisirilmistir.(2numarali sef)
+84 numarali musterinin hesabi alinmistir.(3numarali kasa)
+81 numarali musterinin siparisi alinmistir.(2numarali garson)
+81 numarali musterinin yemegi pisirilmistir.(5numarali sef)
+81 numarali musterinin hesabi alinmistir.(2numarali kasa)
+82 numarali musterinin siparisi alinmistir.(1numarali garson)
+88 numarali musterinin siparisi alinmistir.(6numarali garson)
+86 numarali musterinin siparisi alinmistir.(5numarali garson)
+85 numarali musterinin siparisi alinmistir.(4numarali garson)
+89 numarali musterinin siparisi alinmistir.(7numarali garson)
+82 numarali musterinin yemegi pisirilmistir.(4numarali sef)
+89 numarali musterinin yemegi pisirilmistir.(4numarali sef)
+82 numarali musterinin hesabi alinmistir.(0numarali kasa)
+89 numarali musterinin hesabi alinmistir.(1numarali kasa)
+87 numarali musterinin siparisi alinmistir.(0numarali garson)
+83 numarali musterinin siparisi alinmistir.(3numarali garson)
+85 numarali musterinin hesabi alinmistir.(0numarali kasa)
+86 numarali musterinin yemegi pisirilmistir.(0numarali sef)
+86 numarali musterinin hesabi alinmistir.(3numarali kasa)
+88 numarali musterinin yemegi pisirilmistir.(3numarali sef)
+88 numarali musterinin hesabi alinmistir.(1numarali kasa)
+87 numarali musterinin yemegi pisirilmistir.(3numarali sef)
+87 numarali musterinin hesabi alinmistir.(2numarali kasa)
+83 numarali musterinin yemegi pisirilmistir.(1numarali sef)
+83 numarali musterinin hesabi alinmistir.(3numarali kasa)
